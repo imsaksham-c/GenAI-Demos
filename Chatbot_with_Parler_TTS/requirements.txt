@@ -1,0 +1,12 @@
+langchain>=0.2.15,<0.3.0
+langchain-core
+langchain-community
+langchain-openai==0.1.7
+lancedb==0.16.0
+bs4==0.0.2
+tantivy==0.20.1 
+pypdf==5.4.0
+gradio==5.29.0
+torch==2.7.0
+openai>=1.12.0
+git+https://github.com/huggingface/parler-tts.git
